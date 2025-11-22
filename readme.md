@@ -111,7 +111,8 @@ For initial testing, you can use the following admin credentials:
 
 Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
 
-
+## DJOYONNE contribution
+my name is DJOYONNE FRANCK and this is my contribution
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue on the GitHub repository. (Note: Assuming a GitHub repository for support.)
